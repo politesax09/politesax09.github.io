@@ -1,0 +1,29 @@
+# Archivos y carpetas generados por Jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Archivos de dependencias de Ruby
+Gemfile.lock
+vendor/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos de pruebas y backups
+*.swp
+*~
+
+# Otros
+node_modules/
